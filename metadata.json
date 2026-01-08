@@ -1,0 +1,5 @@
+{
+  "name": "DEPED MATATAG LESSON PLANNER",
+  "description": "A professional tool for Filipino educators to generate DepEd MATATAG-aligned lesson plans instantly using the Gemini API. Created by JNB.",
+  "requestFramePermissions": []
+}
